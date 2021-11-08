@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(134, 147, 148);
+}
+
+
+
+div{
+    text-align: center;
+}
+
+
+h1{
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+p{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    background-color: rgb(194, 79, 79);
+}
+
+button:hover{
+    background-color: rgb(107, 199, 228);
+}
