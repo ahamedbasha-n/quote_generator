@@ -11,3 +11,8 @@ This Quote Generator is a learning experience for me and an application to stay 
 - CSS
 - JavaScript
 
+## Application
+
+Publishing Platform - **Netlify**
+
+Link to the Project - https://amazing-shannon-9c0c6f.netlify.app/
